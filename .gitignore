@@ -1,0 +1,7 @@
+Animal/
+assets/
+src/events/
+src/lessons/
+src/users/
+src/canvas/canvas.js
+src/canvas/animate.js
